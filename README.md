@@ -1,8 +1,9 @@
 # Bert-Sentiment
 
-Overview
+## Overview
 This project leverages the power of BERT's deep contextual understanding to analyze the sentiment of Amazon reviews with high accuracy. The model processes review text and outputs numerical sentiment scores, enabling quantitative analysis of customer satisfaction and product reception.
-Features
+
+## Features
 
 BERT-powered Analysis: Utilizes pre-trained BERT models for state-of-the-art sentiment classification
 Sentiment Scoring: Generates numerical sentiment scores for quantitative analysis
